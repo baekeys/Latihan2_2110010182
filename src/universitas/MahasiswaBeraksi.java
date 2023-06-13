@@ -11,6 +11,9 @@ package universitas;
  */
 public class MahasiswaBeraksi {
     public static void main(String[] args) {
+        Mahasiswa Rizqi=new Mahasiswa("2110010182","rizqi","TI");
+        
+        Rizqi.getDetail();
         
     }
     

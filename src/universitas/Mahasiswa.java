@@ -8,10 +8,10 @@ public class Mahasiswa {
        this.nama = nama;
        this.prodi=prodi;
    }
-    public String getDetail(){
-        System.out.println("npm"+npm);
-        System.out.println("nama"+nama);
-        System.out.println("prodi"+prodi);
+     String getDetail(){
+        System.out.println("npm :"+npm);
+        System.out.println("nama :"+nama);
+        System.out.println("prodi :"+prodi);
         return null;
         
     }
